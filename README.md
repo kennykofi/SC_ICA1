@@ -52,6 +52,8 @@ clojure -m closure-projects.icasc1.icasc1
 Contact
 
 - Kenneth Asare (kennneth.asare@praguecollege.cz)
+- Sacha Labastie (sacha.labastie@praguecollege.cz)
+- Sharjeel Khan (sharjeel.khan@praguecollege.cz)
 
 ## LICENSE
 
